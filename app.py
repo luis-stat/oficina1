@@ -42,8 +42,6 @@ if df is not None:
         (df_filtrado['semestre'] <= faixa_semestre[1])
     ]
     
-    st.write(f"Total de alunos filtrados: {len(df_filtrado)}")
-    st.dataframe(df_filtrado)
     col_kpi1, col_kpi2, col_kpi3 = st.columns(3)
     with col_kpi1:
         st.metric("Total de Alunos", f"{len(df_filtrado)}")
@@ -71,5 +69,8 @@ if df is not None:
             color='curso', size='horas_estudo_semanal', trendline="ols"
         )
         st.plotly_chart(fig_scatter, use_container_width=True)
+
+        with st.expander("Visualizar Dados"):
+            st.dataframe(df_filtrado)
 else:
     st.error("Arquivo 'dados.csv' não encontrado.")
