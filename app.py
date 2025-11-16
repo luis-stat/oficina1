@@ -2,8 +2,9 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.title("Dashboard Exploratório da Pesquisa")
+st.set_page_config(page_title="Dashboard Exploratório", layout="wide")
 
+@st.cache_data
 def load_data(filepath):
     try:
         df = pd.read_csv(filepath)
