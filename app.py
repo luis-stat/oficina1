@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import plotly.express as px
 
 st.title("Dashboard Exploratório da Pesquisa")
 
@@ -42,5 +43,32 @@ if df is not None:
     
     st.write(f"Total de alunos filtrados: {len(df_filtrado)}")
     st.dataframe(df_filtrado)
+    col_kpi1, col_kpi2, col_kpi3 = st.columns(3)
+    with col_kpi1:
+        st.metric("Total de Alunos", f"{len(df_filtrado)}")
+    with col_kpi2:
+        media_estudo = df_filtrado['horas_estudo_semanal'].mean()
+        st.metric("Média Horas de Estudo", f"{media_estudo:.1f} h")
+    with col_kpi3:
+        media_desloc = df_filtrado['tempo_deslocamento_min'].mean()
+        st.metric("Média Deslocamento", f"{media_desloc:.1f} min")
+
+    st.markdown("---")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("Distribuição dos Dados")
+        var_analise = st.selectbox("Variável:", options=['horas_estudo_semanal', 'tempo_deslocamento_min', 'nivel_disposição_pos_aula'])
+        fig_hist = px.histogram(df_filtrado, x=var_analise, nbins=20, title=f"Histograma: {var_analise}")
+        st.plotly_chart(fig_hist, use_container_width=True)
+
+    with col2:
+        st.subheader("Relação: Deslocamento vs. Disposição")
+        fig_scatter = px.scatter(
+            df_filtrado, x='tempo_deslocamento_min', y='nivel_disposição_pos_aula',
+            color='curso', size='horas_estudo_semanal', trendline="ols"
+        )
+        st.plotly_chart(fig_scatter, use_container_width=True)
 else:
     st.error("Arquivo 'dados.csv' não encontrado.")
