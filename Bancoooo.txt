@@ -1,0 +1,201 @@
+id_aluno,curso,campus,semestre,tempo_deslocamento_min,horas_estudo_semanal,nível_disposição_pós_aula,transporte_ida_ufc,bairro
+1,Engenharia Civil,Pici,4,45,18,3,Ônibus,Montese
+2,Psicologia,Benfica,2,15,12,5,A pé,Benfica
+3,Ciência da Computação,Pici,6,90,25,1,Ônibus,Messejana
+4,Medicina,Porangabussu,8,30,30,3,Carro,Aldeota
+5,Engenharia Elétrica,Pici,3,55,20,2,Ônibus,Parangaba
+6,Letras,Benfica,5,40,10,4,Metrô,Centro
+7,Estatística,Pici,1,60,15,3,Ônibus,Barra do Ceará
+8,Odontologia,Porangabussu,7,25,22,4,Carro,Meireles
+9,Engenharia Mecânica,Pici,5,75,20,2,Ônibus,Jangurussu
+10,História,Benfica,3,50,14,3,Ônibus,Fátima
+11,Engenharia de Produção,Pici,2,35,18,4,Moto,Parquelandia
+12,Ciência de Dados,Pici,4,85,24,2,Ônibus,Conjunto Ceará
+13,Enfermagem,Porangabussu,6,45,16,3,Ônibus,Rodolfo Teófilo
+14,Arquitetura e Urbanismo,Benfica,9,20,28,4,Metrô,Benfica
+15,Química,Pici,3,65,19,2,Ônibus,Bom Jardim
+16,Direito,Faculdade de Direito,8,25,20,5,Carro,Dionísio Torres
+17,Engenharia Ambiental,Pici,1,55,17,3,Ônibus,Bela Vista
+18,Física,Pici,7,40,22,4,Bicicleta,Pici
+19,Pedagogia,Benfica,4,70,12,2,Ônibus,José Walter
+20,Ciência da Computação,Pici,5,50,26,3,Metrô,Mondubim
+21,Ciências Sociais,Benfica,2,60,15,2,Ônibus,Granja Lisboa
+22,Engenharia de Telecomunicações,Pici,6,35,21,4,Carro,Papicu
+23,Matemática,Pici,3,45,20,3,Ônibus,Antônio Bezerra
+24,Farmácia,Porangabussu,5,30,18,4,Carro,Cocó
+25,Engenharia Metalúrgica,Pici,8,80,19,1,Ônibus,Siqueira
+26,Jornalismo,Benfica,4,25,16,5,A pé,Benfica
+27,Biotecnologia,Pici,2,50,22,3,Ônibus,São Gerardo
+28,Design - Moda,Pici,6,55,14,3,Metrô,José Bonifácio
+29,Geografia,Pici,5,65,15,2,Ônibus,Vila Velha
+30,Engenharia de Alimentos,Pici,1,95,18,1,Ônibus,Pedras
+31,Cinema e Audiovisual,Pici,3,45,13,3,Uber,Joaquim Távora
+32,Zootecnia,Pici,7,55,20,3,Ônibus,Pan Americano
+33,Biblioteconomia,Benfica,2,45,10,3,Ônibus,Damas
+34,Engenharia Química,Pici,9,30,25,5,Carro,Varjota
+35,Engenharia de Computação,Pici,4,70,23,2,Ônibus,Maraponga
+36,Fisioterapia,Porangabussu,6,40,20,3,Ônibus,Amadeu Furtado
+37,Engenharia de Energias Renováveis,Pici,5,60,19,3,Ônibus,Passaré
+38,Filosofia,Benfica,8,20,18,5,Bicicleta,Gentilândia
+39,Agronomia,Pici,3,50,17,3,Moto,Presidente Kennedy
+40,Ciência da Computação,Pici,1,100,28,1,Ônibus,Ancuri
+41,Música,Pici,6,45,25,4,Ônibus,Cidade 2000
+42,Engenharia Civil,Pici,4,30,20,4,Carro,Guararapes
+43,Psicologia,Benfica,7,80,14,2,Ônibus,Conjunto Palmeiras
+44,Oceanografia,Pici,2,55,18,3,Ônibus,Cristo Redentor
+45,Letras - Inglês,Benfica,5,15,11,5,A pé,Benfica
+46,Engenharia Mecânica,Pici,8,45,24,3,Moto,Demócrito Rocha
+47,Administração,Benfica,3,60,15,2,Ônibus,Serrinha
+48,Geologia,Pici,6,75,21,2,Ônibus,Messejana
+49,Medicina,Porangabussu,10,25,35,4,Carro,Meireles
+50,Estatística,Pici,4,50,16,3,Ônibus,Jardim América
+51,Engenharia de Pesca,Pici,2,40,15,4,Ônibus,Monte Castelo
+52,Ciências Contábeis,Benfica,5,35,20,4,Metrô,Couto Fernandes
+53,Engenharia de Produção,Pici,7,90,22,1,Ônibus,Cajazeiras
+54,Educação Física,Pici,3,65,12,3,Ônibus,Genibaú
+55,Serviço Social,Benfica,6,55,14,2,Ônibus,Itaperi
+56,Engenharia Elétrica,Pici,9,40,26,4,Carro,Cidade dos Funcionários
+57,Design - Moda,Pici,4,20,18,5,Bicicleta,Benfica
+58,Química Industrial,Pici,1,70,21,2,Ônibus,Pirambu
+59,Economia Doméstica,Pici,5,50,13,3,Ônibus,Vila União
+60,Engenharia de Alimentos,Pici,8,45,19,3,Moto,Jardim Guanabara
+61,Letras - Espanhol,Benfica,2,30,10,4,Ônibus,Bairro de Fátima
+62,Sistemas e Mídias Digitais,Pici,6,85,24,2,Ônibus,Planalto Ayrton Senna
+63,Medicina Veterinária,Pici,3,60,25,3,Ônibus,Aerolândia
+64,Ciências Econômicas,Benfica,7,25,18,5,Carro,Aldeota
+65,Engenharia de Computação,Pici,4,40,27,4,Metrô,Parangaba
+66,Dança,Benfica,5,50,20,3,Ônibus,Vila Pery
+67,Engenharia Metalúrgica,Pici,2,75,18,2,Ônibus,Canindezinho
+68,Gastronomia,Benfica,1,35,16,4,Uber,São João do Tauape
+69,Física,Pici,8,20,25,5,A pé,Pici
+70,Engenharia Civil,Pici,5,110,22,1,Ônibus,Paupina
+71,História,Benfica,6,45,15,3,Ônibus,Parque Araxá
+72,Ciência de Dados,Pici,3,30,26,4,Carro,Engenheiro Luciano Cavalcante
+73,Odontologia,Porangabussu,4,55,24,2,Ônibus,Henrique Jorge
+74,Engenharia Ambiental,Pici,7,65,19,3,Ônibus,Jardim Iracema
+75,Pedagogia,Benfica,2,40,13,4,Metrô,Porangabussu
+76,Matemática Industrial,Pici,5,80,22,2,Ônibus,Manoel Sátiro
+77,Finanças,Benfica,3,50,18,3,Ônibus,Jardim Cearense
+78,Biologia,Pici,8,35,18,4,Moto,Ellery
+79,Engenharia Mecânica,Pici,1,95,23,1,Ônibus,Barroso
+80,Arquitetura e Urbanismo,Benfica,6,15,30,5,A pé,Benfica
+81,Zootecnia,Pici,4,60,17,3,Ônibus,Quintino Cunha
+82,Engenharia Química,Pici,7,25,24,5,Carro,Papicu
+83,Ciências Atuariais,Benfica,3,45,19,3,Ônibus,Tauape
+84,Ciência de Dados,Pici,2,70,25,2,Ônibus,Parque Dois Irmãos
+85,Medicina,Porangabussu,5,35,32,4,Carro,Bairro de Fátima
+86,Engenharia de Telecomunicações,Pici,9,50,20,3,Ônibus,Alagadiço
+87,Psicologia,Benfica,1,85,15,1,Ônibus,Curió
+88,Geografia,Pici,4,40,14,4,Metrô,Benfica
+89,Engenharia Civil,Pici,6,65,21,2,Ônibus,Autran Nunes
+90,Letras - Português,Benfica,8,20,11,5,Bicicleta,Rodolfo Teófilo
+91,Ciência da Computação,Pici,3,55,27,3,Ônibus,Carlito Pamplona
+92,Engenharia de Energias Renováveis,Pici,5,100,18,1,Ônibus,Pedras
+93,Gastronomia,Benfica,2,30,16,4,Ônibus,Joaquim Távora
+94,Engenharia de Produção,Pici,7,45,20,3,Moto,Jockey Clube
+95,Química,Pici,4,80,20,2,Ônibus,Granja Portugal
+96,Biblioteconomia,Benfica,6,35,12,4,Ônibus,Alto da Balança
+97,Engenharia Elétrica,Pici,1,25,24,5,Carro,Meireles
+98,Ciências Sociais,Benfica,5,60,16,2,Ônibus,Dias Macedo
+99,Estatística,Pici,3,90,18,1,Ônibus,Santa Maria
+100,Engenharia de Pesca,Pici,8,50,17,3,Ônibus,Cidade dos Funcionários
+101,Enfermagem,Porangabussu,2,40,19,3,Metrô,Parangaba
+102,Engenharia Mecânica,Pici,6,75,22,2,Ônibus,Bom Jardim
+103,Direito,Faculdade de Direito,9,20,24,5,Carro,Dionísio Torres
+104,Engenharia de Computação,Pici,5,65,25,2,Ônibus,Parque Santa Rosa
+105,Cinema e Audiovisual,Pici,4,45,15,3,Uber,Benfica
+106,Agronomia,Pici,7,55,18,3,Ônibus,Cambeba
+107,Engenharia Metalúrgica,Pici,3,85,19,1,Ônibus,Mondubim
+108,Jornalismo,Benfica,1,45,17,3,Ônibus,Montese
+109,Biotecnologia,Pici,8,35,23,4,Moto,Parque Araxá
+110,Filosofia,Benfica,5,25,19,5,Bicicleta,Benfica
+111,Engenharia Civil,Pici,2,60,20,3,Ônibus,Vila Velha
+112,Ciência da Computação,Pici,7,120,28,1,Ônibus,Jangurussu
+113,Matemática,Pici,4,40,21,4,Ônibus,Farias Brito
+114,Pedagogia,Benfica,6,50,13,3,Metrô,Vila Pery
+115,Engenharia Metalúrgica,Pici,3,70,17,2,Ônibus,Aracapé
+116,Odontologia,Porangabussu,9,30,24,4,Carro,Aldeota
+117,Engenharia Ambiental,Pici,5,80,20,2,Ônibus,Siqueira
+118,Ciências Contábeis,Benfica,2,20,22,5,A pé,Benfica
+119,Física,Pici,6,55,23,3,Ônibus,Jardim das Oliveiras
+120,Engenharia da Computação,Pici,1,45,26,3,Metrô,Couto Fernandes
+121,Letras - Frances,Benfica,4,35,12,4,Ônibus,São Gerardo
+122,Geologia,Pici,8,65,22,2,Ônibus,Novo Mondubim
+123,Engenharia Química,Pici,3,25,25,5,Uber,Varjota
+1de4,História,Benfica,7,60,16,2,Ônibus,Prefeito Jose Walter
+125,Sistemas e Mídias Digitais,Pici,5,90,25,1,Ônibus,Messejana
+126,Medicina,Porangabussu,3,30,32,4,Carro,Cocó
+127,Engenharia Elétrica,Pici,6,50,23,3,Ônibus,Parque Manibura
+128,Arquitetura e Urbanismo,Benfica,2,40,28,3,Ônibus,Damas
+129,Ciência de Dados,Pici,8,75,24,2,Ônibus,Conjunto Palmeiras
+130,Engenharia de Telecomunicações,Pici,4,35,21,4,Moto,Parquelandia
+131,Serviço Social,Benfica,5,55,15,3,Ônibus,Lagoa Redonda
+132,Engenharia de Alimentos,Pici,1,85,18,1,Ônibus,Granja Lisboa
+133,Química,Pici,7,45,21,3,Metrô,Parangaba
+134,Administração,Benfica,6,20,17,5,A pé,Gentilândia
+Example,Engenharia Civil,Pici,3,65,21,2,Ônibus,Álvaro Weyne
+136,Farmácia,Porangabussu,8,35,19,4,Carro,Parque do Cocó
+137,Engenharia Mecânica,Pici,5,100,23,1,Ônibus,Ancuri
+138,Ciências Econômicas,Benfica,4,30,19,4,Ônibus,Bairro de Fátima
+139,Estatística,Pici,2,50,17,3,Ônibus,Bela Vista
+140,Engenharia de Produção,Pici,9,25,21,5,Carro,Meireles
+141,Música,Pici,6,60,24,2,Ônibus,José Walter
+142,Psicologia,Benfica,3,40,15,3,Metrô,Benfica
+143,Biotecnologia,Pici,7,70,22,2,Ônibus,Conjunto Ceará
+144,Letras - Libras,Benfica,1,20,11,5,Bicicleta,Rodolfo Teófilo
+145,Ciência da Computação,Pici,5,55,27,3,Ônibus,Pan Americano
+146,Engenharia de Pesca,Pici,4,80,16,1,Ônibus,Vicente Pinzón
+147,Design - Moda,Pici,8,40,15,4,Uber,Joaquim Távora
+148,Engenharia Ambiental,Pici,2,45,19,3,Moto,Amadeu Furtado
+149,Matemática,Pici,6,95,22,1,Ônibus,Pedras
+150,Direito,Faculdade de Direito,5,25,25,5,Carro,Aldeota
+Examples,Engenharia Metalúrgica,Pici,3,60,18,3,Ônibus,Serrinha
+152,Geografia,Pici,7,35,16,4,Ônibus,Presidente Kennedy
+153,Biblioteconomia,Benfica,4,50,11,3,Ônibus,Itaperi
+154,Engenharia de Computação,Pici,1,85,26,1,Ônibus,Cajazeiras
+155,Enfermagem,Porangabussu,6,30,20,4,Carro,Guararapes
+156,Engenharia Metalúrgica,Pici,5,65,20,2,Ônibus,Barra do Ceará
+157,Ciências Sociais,Benfica,3,20,17,5,A pé,Benfica
+158,Engenharia Elétrica,Pici,8,40,24,4,Metrô,Couto Fernandes
+159,Zootecnia,Pici,2,75,18,2,Ônibus,Messejana
+160,Pedagogia,Benfica,7,55,13,2,Ônibus,Vila União
+161,Engenharia Civil,Pici,6,30,21,4,Carro,Papicu
+162,Física,Pici,3,90,23,1,Ônibus,Paupina
+163,Jornalismo,Benfica,5,25,16,5,Bicicleta,Gentilândia
+164,Engenharia de Computação,Pici,9,60,24,2,Ônibus,Manoel Sátiro
+165,Engenharia Química,Pici,4,45,25,3,Moto,Parquelandia
+166,Filosofia,Benfica,2,80,18,1,Ônibus,Barroso
+167,Ciência de Dados,Pici,1,50,25,3,Metrô,Mondubim
+168,Medicina,Porangabussu,7,20,34,5,Carro,Meireles
+169,Sistemas e Mídias Digitais,Pici,6,70,26,2,Ônibus,Maraponga
+170,Arquitetura e Urbanismo,Benfica,5,35,29,4,Ônibus,São João do Tauape
+171,Engenharia Mecânica,Pici,3,110,22,1,Ônibus,Jangurussu
+172,Letras,Benfica,8,15,10,5,A pé,Benfica
+173,Engenharia de Energias Renováveis,Pici,4,55,19,3,Ônibus,Montese
+174,Química,Pici,2,85,20,1,Ônibus,São Bento
+175,Ciências Contábeis,Benfica,6,40,21,3,Ônibus,Jardim América
+176,Biologia,Pici,5,65,17,2,Ônibus,Jardim Guanabara
+177,Engenharia Civil,Pici,1,30,20,4,Uber,Varjota
+178,Cinema e Audiovisual,Pici,7,35,16,5,Carro,Dionísio Torres
+179,Engenharia de Telecomunicações,Pici,3,75,21,2,Ônibus,Canindezinho
+180,Psicologia,Benfica,4,50,15,3,Metrô,Vila Pery
+181,Agronomia,Pici,8,40,18,4,Moto,Pici
+182,Engenharia de Produção,Pici,6,95,21,1,Ônibus,Messejana
+183,História,Benfica,2,35,15,4,Ônibus,Bairro de Fátima
+184,Engenharia de Alimentos,Pici,5,60,19,2,Ônibus,Quintino Cunha
+185,Gastronomia,Benfica,3,20,16,5,Bicicleta,Benfica
+186,Ciência da Computação,Pici,9,80,28,2,Ônibus,Conjunto Ceará
+187,Odontologia,Porangabussu,1,45,23,3,Ônibus,Parangaba
+188,Engenharia Metalúrgica,Pici,4,30,18,4,Carro,Cidade 2000
+189,Ciências Atuariais,Benfica,6,55,20,3,Ônibus,Antônio Bezerra
+190,Engenharia Ambiental,Pici,7,70,19,2,Ônibus,Planalto Ayrton Senna
+191,Letras - Inglês,Benfica,3,25,12,5,Uber,Aldeota
+192,Estatística,Pici,5,40,16,4,Metrô,Parangaba
+193,Engenharia Civil,Pici,2,85,21,1,Ônibus,Siqueira
+194,Design - Moda,Pici,4,15,17,5,A pé,Benfica
+195,Sistemas e Mídias Digitais,Pici,8,65,25,2,Ônibus,Passaré
+196,Geologia,Pici,1,50,21,3,Ônibus,Monte Castelo
+197,Farmácia,Porangabussu,3,25,19,5,Carro,Meireles
+198,Engenharia Elétrica,Pici,7,105,24,1,Ônibus,Pedras
+199,Ciências Sociais,Benfica,9,35,16,4,Ônibus,Damas
+200,Engenharia Mecânica,Pici,4,60,22,2,Ônibus,Vila Velha
