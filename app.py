@@ -65,9 +65,9 @@ if df is not None:
         st.plotly_chart(fig_hist, use_container_width=True)
 
     with col2:
-        st.subheader("Relação: Deslocamento vs. Disposição")
+        st.subheader("Relação: Deslocamento vs. Estudo")
         fig_scatter = px.scatter(
-            df_filtrado, x='tempo_deslocamento_min', y='nivel_disposicao_pos_aula',
+            df_filtrado, x='tempo_deslocamento_min', y='horas_estudo_semanal',
             color='curso', size='horas_estudo_semanal', trendline="ols"
         )
         st.plotly_chart(fig_scatter, use_container_width=True)
